@@ -27,6 +27,5 @@ Hint: Use ternary operator */
         float Percentage=(Total_marks/400)*100;
         System.out.println(Percentage);
         String result=(Percentage>=70 ) ? "First Class"
-
     }
 }
